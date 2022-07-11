@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Star Jedi';
+  src: url("fonts/StarJedi.eot");
+  src: url("fonts/StarJedi.eot?#iefix") format("embedded-opentype"), url("fonts/StarJedi.woff2") format("woff2"), url("fonts/StarJedi.woff") format("woff"), url("fonts/StarJedi.ttf") format("truetype"), url("fonts/StarJedi.svg#StarJedi") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("assets/stars.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Star Jedi';
+  color: #516fd5;
+  font-size: 18px; }
+
+.content {
+  margin: 36px; }
+  .content h1, .content h2 {
+    text-align: center; }
+  .content p {
+    text-align: justify; }
+
+/*# sourceMappingURL=style.css.map */
